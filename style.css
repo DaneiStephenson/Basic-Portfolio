@@ -1,23 +1,50 @@
 
+
+
 body {
 	background-image: url("assets/images/pink_rice.png");
 }
 
 header {
-	color: red;
+
+	background: #ffffff;
+	padding: 30px;
+	margin-bottom: 0px;
+	border: #cccccc;
+	
+}
+
+.headerContent {
+	float: right;
+	padding: 10px;
+
 
 }
 
 .yourName {
+	position: fixed;
+	background: #eee;
+	padding: 40px;
+	text-align: center;
+	margin: 0;
+	top: 0;
+	left: 40px;
 
 }
 
 .aboutMe{
-
+	float: left;
+	background-color: #ffffff;
+	border:  solid 5px #666666 ;
+	width: 100px
+	height: 100px;
+	padding: 10px;
+	margin: 0px 10px 10px 10px;
 }
 
 .content{
-
+		float: right;
+		right: -30px;
 }
 
 #aboutMeImage{
@@ -25,11 +52,22 @@ header {
 }
 
 .connectWithMe{
+	float: right;
+		
+		background: #ffffff;
 
 }
 
-footer{
+footer {
+	position: relative;
 	text-align: center;
-	color: blue;
+	color: white;
+	 clear: both;
+     background: #666666;
+  padding: 30px;
+  margin-top: 10px;
+  border: blue 1px solid;
+ 
+
 
 }
