@@ -28,13 +28,8 @@ header {
 
 }
 
-footer {
-	
-	color: red;
-	 clear:both;
-     background: #666666;
-  padding: 30px;
-  margin-top: 10px;
- 
+footer{
+	text-align: center;
+	color: blue;
 
 }
