@@ -30,11 +30,12 @@ header {
 
 footer {
 	
-	color: red;
-	 clear:both;
+	color: white;
+	 clear: both;
      background: #666666;
   padding: 30px;
   margin-top: 10px;
+  border: pink 3px solid;
  
 
 }
