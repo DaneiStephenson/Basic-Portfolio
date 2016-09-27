@@ -64,6 +64,76 @@ font-family: 'Georgia', Times, Times New Roman, serif;
 	width:178px;
 
 }
+
+.placeHolder2 {
+		color: white;
+	position: absolute;
+	background: pink;
+	padding: 11px;
+	text-align: center;
+	margin: 0;
+	top: 401px;
+	left: 405px;
+	width:178px;
+
+}
+
+.placeHolder3 {
+		color: white;
+	position: absolute;
+	background: pink;
+	padding: 11px;
+	text-align: center;
+	margin: 0;
+	top: 570px;
+	left: 171px;
+	width:178px;
+
+}
+.placeHolder4 {
+		color: white;
+	position: absolute;
+	background: pink;
+	padding: 11px;
+	text-align: center;
+	margin: 0;
+	top: 570px;
+	left: 405px;
+	width:178px;
+
+}
+
+.placeHolder5 {
+		color: white;
+	position: absolute;
+	background: pink;
+	padding: 11px;
+	text-align: center;
+	margin: 0;
+	top: 730px;
+	left:171px;
+	width:178px;
+
+}
+
+.placeHolder6 {
+		color: white;
+	position: absolute;
+	background: pink;
+	padding: 11px;
+	text-align: center;
+	margin: 0;
+	top: 730px;
+	left: 405px;
+	width:178px;
+
+}
+
+
+
+
+
+
 .imageSize {
 	color: #777777;
 	width: 40px;
@@ -79,7 +149,7 @@ img {
 
 .imageTd {
 	width: 200px;
-	height: 150px;
+	height: 130px;
 	padding: 15px;
 }
 
