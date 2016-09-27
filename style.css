@@ -2,23 +2,39 @@
 
 
 body {
+	color: pink;
 	background-image: url("assets/images/pink_rice.png");
-	
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;;
 	
 }
+
+textarea {
+	width:300px;height:300px;
+	
+	
+
+}
+
+ 
 
 header {
-
+	color: pink;
+font-family: 'Georgia', Times, Times New Roman, serif;
 	background: #ffffff;
-	padding: 49px;
-	margin: 10px;
+	padding: 51px;
+
+	margin-top: 0px;
+	left: -10px;
 	border: #cccccc;
+	width: 100%;
 	
 
 	
 }
 
+
 .headerContent {
+	color: pink;
 	float: right;
 	padding: 10px;
 
@@ -26,6 +42,7 @@ header {
 }
 
 .yourName {
+	color: #777777;
 	position: absolute;
 	background: #eee;
 	padding: 40px;
@@ -37,6 +54,7 @@ header {
 }
 
 .imageSize {
+	color: #777777;
 	width: 40px;
 	height: 40px;
 
@@ -48,19 +66,20 @@ img {
 }
 
 .aboutMe{
+	color: #777777;
 	float: left;
 	background-color: #ffffff;
 	border:  solid 5px #666666 ;
 	width: 550px;
 	height: 600px;
 	padding: 50px;
-	margin: 20px 10px 20px 10px;
-	left: -50px ;
-	overflow: auto;
-	clear:both;
+	margin: 20px -50px 20px 90px;
+
+	
 }
 
 .content{
+	color: #777777;
 	
 		overflow: auto;
 		
@@ -71,9 +90,11 @@ img {
 }
 
 .connectWithMe{
+	color: #777777;
+
 	float: right;
 	padding: 15px;
-	margin: 20px 10px 20px 10px;
+	margin: 20px -40px 20px -10px;
 	position: static;
 	width: 150px;
 	height: 150px;
@@ -85,14 +106,19 @@ img {
 }
 
 footer {
+	color: #777777;
 	position: relative;
 	text-align: center;
 	color: white;
 	 clear: both;
      background: #666666;
-  padding: 30px;
-  margin: 20px 0px 0px 0px ;
-  border: blue 0px solid;
+  padding: 40px;
+bottom: -20px;
+left: -20px;
+right: 100px;
+width: 100%;
+
+  border: pink 4px solid;
  
 
 
