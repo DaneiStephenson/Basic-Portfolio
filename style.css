@@ -52,7 +52,18 @@ font-family: 'Georgia', Times, Times New Roman, serif;
 	left: 100px;
 
 }
+.placeHolder {
+		color: white;
+	position: absolute;
+	background: pink;
+	padding: 11px;
+	text-align: center;
+	margin: 0;
+	top: 401px;
+	left: 171px;
+	width:178px;
 
+}
 .imageSize {
 	color: #777777;
 	width: 40px;
@@ -63,6 +74,13 @@ font-family: 'Georgia', Times, Times New Roman, serif;
 img {
 	
 	overflow-wrap: 
+}
+
+
+.imageTd {
+	width: 200px;
+	height: 150px;
+	padding: 15px;
 }
 
 .aboutMe{
@@ -85,9 +103,7 @@ img {
 		
 }
 
-#aboutMeImage{
 
-}
 
 .connectWithMe{
 	color: #777777;
