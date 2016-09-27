@@ -53,9 +53,12 @@ font-family: 'Georgia', Times, Times New Roman, serif;
 
 }
 .placeHolder {
-		color: white;
+	
+background: pink;
+color: white;
+	
 	position: absolute;
-	background: pink;
+	
 	padding: 11px;
 	text-align: center;
 	margin: 0;
@@ -64,6 +67,12 @@ font-family: 'Georgia', Times, Times New Roman, serif;
 	width:178px;
 
 }
+
+.placeHolderHover:hover{
+	background: #ff99cc;
+
+}
+
 
 .placeHolder2 {
 		color: white;
