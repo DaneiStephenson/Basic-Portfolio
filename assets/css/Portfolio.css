@@ -1,6 +1,3 @@
-
-
-
 body {
 	color: pink;
 	background-image: url("../images/pink_rice.png");
@@ -68,8 +65,8 @@ color: white;
 	padding: 11px;
 	text-align: center;
 	margin: 0;
-	top: 401px;
-	left: 171px;
+	top: 250px;
+	left: 20px;
 	width:178px;
 
 }
@@ -87,8 +84,8 @@ color: white;
 	padding: 11px;
 	text-align: center;
 	margin: 0;
-	top: 401px;
-	left: 405px;
+	top: 248px;
+	left: 250px;
 	width:178px;
 
 }
@@ -100,8 +97,8 @@ color: white;
 	padding: 11px;
 	text-align: center;
 	margin: 0;
-	top: 570px;
-	left: 171px;
+	top:408px;
+	left: 20px;
 	width:178px;
 
 }
@@ -112,8 +109,8 @@ color: white;
 	padding: 11px;
 	text-align: center;
 	margin: 0;
-	top: 570px;
-	left: 405px;
+	top: 408px;
+	left: 250px;
 	width:178px;
 
 }
@@ -125,8 +122,8 @@ color: white;
 	padding: 11px;
 	text-align: center;
 	margin: 0;
-	top: 730px;
-	left:171px;
+	top: 570px;
+	left:20px;
 	width:178px;
 
 }
@@ -138,8 +135,8 @@ color: white;
 	padding: 11px;
 	text-align: center;
 	margin: 0;
-	top: 730px;
-	left: 405px;
+	top: 570px;
+	left: 250px;
 	width:178px;
 
 }
@@ -198,7 +195,7 @@ width: 600px;
 		color: #777777;
     float: right;
     padding: 15px;
-    margin: -615px -300px 60px 60px;
+    margin: -615px -20px 60px 60px;
     position: static;
     width: 150px;
     height: 150px;
