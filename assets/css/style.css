@@ -15,6 +15,11 @@ textarea {
 
 }
 
+ h1 {
+	font-size: 24px
+}
+
+
  
 
 header {
@@ -198,7 +203,7 @@ width: 600px;
 		color: #777777;
     float: right;
     padding: 15px;
-    margin: -615px -300px 60px 60px;
+    margin: -615px -290px 60px 60px;
     position: static;
     width: 150px;
     height: 150px;
@@ -210,7 +215,7 @@ width: 600px;
 footer {
 	
 	position: relative;
-	text-align: center;
+	
 	
      background: #666666;
  padding: 4px; 
